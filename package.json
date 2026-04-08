@@ -1,5 +1,5 @@
 {
-  "name": "gitbook",
+  "name": "apa-storage",
   "version": "1.0.0",
   "description": "File & video storage with Cloudflare R2",
   "type": "module",
